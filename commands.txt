@@ -1,0 +1,11 @@
+mkdir project1
+mkdir project2
+mkdir project3
+cd project1
+mkdir subproject1_1
+mkdir subproject1_2
+cd -
+mkdir new_project1
+mv Путь к папке/homework/project1/subproject1_1 Путь к папке/homework/newproject1
+mv Путь к папке/homework/project1/subproject1_2 Путь к папке/homework/newproject1
+rm -rf project1

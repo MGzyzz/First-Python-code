@@ -1,0 +1,5 @@
+name = input("Enter your first name\n")
+print(name)
+surname = input("Enter your last name\n")
+print(surname)
+print(f"Nice to meet you! {name} {surname}")
